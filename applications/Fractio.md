@@ -3,8 +3,8 @@
 > This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) can be removed.
 >
 
-- **Project Name:** Name of your project (e.g. Cool Wallet)
-- **Team Name:** Legal name of your team (e.g. Acme)
+- **Project Name:** Fractio
+- **Team Name:** Fractio
 - **Payment Address:** Polymesh (POLYX) payment address. Please also specify the currency.  
 - **Level:** 1, 2 or 3
 
