@@ -129,17 +129,19 @@ For each milestone,
 - **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
 - **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#level_slider-levels) of funding requested. This and the costs for each milestone need to be provided in USD; since the grant is paid out in POLYX, the amount will be calculated according to the exchange rate at the time of payment.
 
-### Milestone 1 — Legal Compliance and FCA Regulations
-Estimated Duration: 2 months
-FTE: 2
-Costs: $600,000 USD (funded by Angel Round)
-Number	Deliverable	Specification
-0a.	License: Unlicenced
-0b.	Documentation	Complete legal framework documentation and compliance reports
-0c.	Testing Guide	Provide regulatory testing guide to ensure FCA compliance and alignment with global regulations
-1.	Legal Framework	Secure the necessary legal and regulatory compliance, ensuring adherence to FCA regulations for tokenized real estate assets in the UK
-2.	Platform Compliance	Establish the platform's legal structure to operate as a compliant real estate tokenization service in the UK and Europe  
+### | Aspect | Details |
+|--------|---------|
+| **Estimated Duration** | 12 months |
+| **FTE** | 2 |
+| **Costs** | $600,000 USD (funded by Angel Round) |
 
+| Number | Deliverable | Specification |
+|--------|-------------|----------------|
+| 0a. | License | Apache 2.0 / GPLv3 |
+| 0b. | Documentation | Complete legal framework documentation and compliance reports |
+| 0c. | Testing Guide | Provide regulatory testing guide to ensure FCA compliance and alignment with global regulations |
+| 1. | Legal Framework | Secure the necessary legal and regulatory compliance, ensuring adherence to FCA regulations for tokenized real estate assets in the UK |
+| 2. | Platform Compliance | Establish the platform's legal structure to operate as a compliant real estate tokenization service in the UK and Europe |
 
 ### Milestone 2 Example — Additional features
 
