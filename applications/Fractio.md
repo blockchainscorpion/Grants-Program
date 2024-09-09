@@ -20,20 +20,30 @@ If this is an application for a follow-up grant (the continuation of an earlier,
 
 Please provide the following:
 
-- Project Name. If the name of your project is not descriptive, a tag line (one sentence summary).
-- A brief description of your project.
-- An indication of how your project relates to / integrates into Polymesh ecosystem.
-- An indication of why your team is interested in creating this project.
+- Project Name: Fractio
+- Fractio aims to create a democratized, fractionalized real estate investment platform. By leveraging the ERC1400 standard on blockchain, Fractio facilitates fractional ownership of real estate, enabling retail investors to access previously unreachable assets with a fraction of the cost, while maintaining compliance with global regulatory frameworks.
+
+- Fractio integrates with Polymesh by utilizing its security token standards to ensure transparency, compliance, and efficiency in real estate transactions.
+- The team is passionate about bridging the gap between retail investors and high-barrier real estate markets, using blockchain technology to revolutionize access to property investment globally.
 
 ### Project Details
 
 We expect the teams to already have a solid idea about your project's expected final state. Therefore, we ask the teams to submit (where relevant):
 
-- Mockups/designs of any UI components
-- Data models / API specifications of the core functionality
+Fractio is a platform that uses blockchain technology to tokenize real-world assets, specifically real estate, providing opportunities for fractional ownership. By offering these assets to retail investors, Fractio lowers the barrier to entry in property investments.
+
+- Mockups/designs of any UI components: https://fractio.live/
+- Data models / API specifications of the core functionality: https://fractioapi.netlify.app/
 - An overview of the technology stack to be used
-- Documentation of core components, protocols, architecture, etc. to be deployed
-- PoC/MVP or other relevant prior work or research on the topic
+-  Blockchain: ERC1400-compliant tokens
+- Smart Contracts: Built for fractional ownership, ensuring real-time regulatory compliance
+- Frontend: Web3 integrated interface for retail and institutional investors
+- Backend: Blockchain-based real estate tokenization and management
+- Security: KYC/AML compliance mechanisms
+- Documentation of core components, protocols, architecture, etc. to be deployed:
+- Integration of jurisdictional laws in smart contracts (via polymesh capital platform)
+- Fractionalized property ownership models: revenue-sharing and equity-sharing
+- PoC/MVP or other relevant prior work or research on the topic: https://fractio.live/
 - What your project is **_not_** or will **_not_** provide or implement
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious.
 
