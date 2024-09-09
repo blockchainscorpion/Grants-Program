@@ -51,29 +51,28 @@ Fractio is a platform that uses blockchain technology to tokenize real-world ass
 
 Help us locate your project in the Polymesh ecosystem / landscape and what problems it tries to solve by answering each of these questions:
 
-- Where and how does your project fit into the ecosystem?
-- Who is your target audience (wallet/UI developers, designers, your own user base, yourself)?
-- What need(s) does your project meet?
-- Are there any other projects similar to yours in the Polymesh ecosystem?
-  - If so, how is your project different?
-  - If not, are there similar projects in related ecosystems?
+- Fractio fits into the Polymesh ecosystem by providing a new avenue for individuals, to invest in real estate.
+- Target audiences include real estate agents and developers, family offices, institutional investors, retail investors.
+- There are similar projects in the blockchain real estate space, such as:
+- RealT, HoneyBricks, RedSwan CRE, and a few other noteable players.
+- Fractio differentiates itself by offering both fractionalized revenue-sharing and equity models, while also providing financial education for retail investors, via a learn-to-earn mechanism.
 
 ## Team :busts_in_silhouette:
 
 ### Team members
 
-- Name of team leader
-- Names of team members
+- Name of team leader: Rich-Allee A John
+- Names of team members: In-progress
 
 ### Contact
 
-- **Contact Name:** Full name of the contact person in your team
-- **Contact Email:** Contact email (e.g. jane@example.com)
-- **Website:** Any website for your team, company, or project
+- **Contact Name:** Rich-Allee A John
+- **Contact Email:** fractio.team@gmail.com
+- **Website:** https://fractio.live/
 
 ### Legal Structure
 
-- **Registered Address:** Address of your registered legal entity, if available. Please keep it in a single line. (e.g. High Street 1, London LK1 234, UK)
+- **Registered Address:** 20-22 Wenlock Road, London, UK, N1 7GU
 - **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Acme Ltd.)
 
 ### Team's experience
