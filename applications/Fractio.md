@@ -131,7 +131,7 @@ For each milestone,
 
 | Number | Deliverable | Specification |
 |--------|-------------|----------------|
-| 0a. | License | Apache 2.0 / GPLv3 |
+| 0a. | License | Unlicenced / FCA |
 | 0b. | Documentation | Complete legal framework documentation and compliance reports |
 | 0c. | Testing Guide | Provide regulatory testing guide to ensure FCA compliance and alignment with global regulations |
 | 1. | Legal Framework | Secure the necessary legal and regulatory compliance, ensuring adherence to FCA regulations for tokenized real estate assets in the UK |
