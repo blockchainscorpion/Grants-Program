@@ -73,7 +73,7 @@ Help us locate your project in the Polymesh ecosystem / landscape and what probl
 ### Legal Structure
 
 - **Registered Address:** 20-22 Wenlock Road, London, UK, N1 7GU
-- **Registered Legal Entity:** Name of your registered legal entity, if available. (e.g. Acme Ltd.)
+- **Registered Legal Entity:** Fractio-UK LTD
 
 ### Team's experience
 
