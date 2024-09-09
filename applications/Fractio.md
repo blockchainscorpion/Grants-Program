@@ -123,12 +123,6 @@ For each milestone,
 
 > :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
-### Overview
-
-- **Total Estimated Duration:** Duration of the whole project (e.g. 2 months)
-- **Full-Time Equivalent (FTE):**  Average number of full-time employees working on the project throughout its duration (see [Wikipedia](https://en.wikipedia.org/wiki/Full-time_equivalent), e.g. 2 FTE)
-- **Total Costs:** Requested amount in USD for the whole project (e.g. 12,000 USD). Note that the acceptance criteria and additional benefits vary depending on the [level](../README.md#level_slider-levels) of funding requested. This and the costs for each milestone need to be provided in USD; since the grant is paid out in POLYX, the amount will be calculated according to the exchange rate at the time of payment.
-
 ### | Aspect | Details |
 |--------|---------|
 | **Estimated Duration** | 12 months |
@@ -142,6 +136,7 @@ For each milestone,
 | 0c. | Testing Guide | Provide regulatory testing guide to ensure FCA compliance and alignment with global regulations |
 | 1. | Legal Framework | Secure the necessary legal and regulatory compliance, ensuring adherence to FCA regulations for tokenized real estate assets in the UK |
 | 2. | Platform Compliance | Establish the platform's legal structure to operate as a compliant real estate tokenization service in the UK and Europe |
+
 
 ### Milestone 2 Example — Additional features
 
