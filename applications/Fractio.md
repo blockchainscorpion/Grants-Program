@@ -125,9 +125,9 @@ For each milestone,
 
 ### | Aspect | Details |
 |--------|---------|
-| **Estimated Duration** | 12 months |
-| **FTE** | 2 |
-| **Costs** | $600,000 USD (funded by Angel Round) |
+| **Estimated Duration** | 2 months |
+| **FTE** | 1 |
+| **Costs** | $TBC |
 
 | Number | Deliverable | Specification |
 |--------|-------------|----------------|
