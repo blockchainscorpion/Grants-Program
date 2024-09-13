@@ -46,6 +46,7 @@ Fractio is a platform that uses blockchain technology to tokenize real-world ass
 - PoC/MVP or other relevant prior work or research on the topic: https://fractio.live/
 - What your project is **_not_** or will **_not_** provide or implement
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious.
+  - Fractio will NOT initially have or launch a token. Our tokens will be issued per property, or property / asset collection. We are not a meme coin, nor will we attempt to position ourselves as such.
 
 ### Ecosystem Fit
 
@@ -123,11 +124,12 @@ For each milestone,
 
 > :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
 
+### Milestone 1 - Legal & Regulatory Compliance
 ### | Aspect | Details |
 |--------|---------|
-| **Estimated Duration** | 2 months |
+| **Estimated Duration** | 6 months |
 | **FTE** | 1 |
-| **Costs** | $TBC |
+| **Costs** | $45000 |
 
 | Number | Deliverable | Specification |
 |--------|-------------|----------------|
@@ -138,29 +140,39 @@ For each milestone,
 | 2. | Platform Compliance | Establish the platform's legal structure to operate as a compliant real estate tokenization service in the UK and Europe |
 
 
-### Milestone 2 Example — Additional features
+### ## Milestone 2 — Platform Setup and Integration with Polymesh Capital
 
-- **Estimated Duration:** 1 month
-- **FTE:**  1
-- **Costs:** 4,000 USD
+| Item | Details |
+|------|---------|
+| **Estimated Duration:** | 6 months |
+| **FTE:** | 4 |
+| **Costs:** | $555,000 USD (funded by Pree-seed round) |
 
-...
+| Number | Deliverable | Specification |
+|--------|-------------|---------------|
+| 0a. | License | Polymath Capital |
+| 0b. | Documentation | Publish API integration documentation with Polymesh Capital |
+| 0c. | Testing Guide | Provide unit and integration testing documentation for platform setup |
+| 0d. | Docker | Dockerfiles for Polymesh integration and initial property tokenization testing |
+| 1. | Platform Setup | Configure the white-label Polymesh Capital platform for Fractio's tokenization services, including wallet and smart contract execution integration |
+| 2. | Initial Property Listings | Tokenize and list the first five properties on the platform to kickstart fractional investment offerings
 
 
 ## Future Plans
 
 Please include here
 
-- how you intend to use, enhance, promote and support your project in the short term, and
-- the team's long-term plans and intentions in relation to it.
+- Fractio will continue expanding its tokenized real estate offerings globally and nurturing private marketplaces that serve investors of different classes, while exploring new asset classes such as art and luxury goods.
+- As the platform grows, community-driven governance features will allow token holders to shape the platform’s future. The focus will be on maintaining legal compliance while scaling platform capabilities, and ensuring investor confidence and regulatory alignment.
+- We will leverage in-person networking events to market our service to the relevant audiences, while cultivating an interconnected online and in-person community of investors.
+- Personal branding through audience specific story telling and narratives.
 
 
 ## Additional Information :heavy_plus_sign:
 
-**How did you hear about the Grants Program?** Polymesh Website / Medium / Twitter / Discord / Newsletter / Announcement by another team / personal recommendation / etc.
+**How did you hear about the Grants Program?** Recommendation by previous course I attended (Gritnova Global Campus).
 
 Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
-- Work you have already done.
-- If there are any other teams who have already contributed (financially) to the project.
-- Previous grants you may have applied for.
+- As the founder, I have already experimented with tokenizing real world assets, utilizing the concept to tokenize my own personal assets to garner greater clarity around the requirements for the process.
+- Founder: I have also continued to improve my knowledge and experience in the blockchain space by primarily focusing on blockchain development, while establishing partnerships with relevant and key individuals in both the real-estate and blockchain space. This is an ongoing effort.
