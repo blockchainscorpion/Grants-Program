@@ -6,7 +6,7 @@
 - **Project Name:** Fractio
 - **Team Name:** Fractio
 - **Payment Address:** Polymesh (POLYX) payment address. Please also specify the currency.  
-- **Level:** 3
+- **Level:** 1
 
 > ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
