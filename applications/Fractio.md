@@ -43,7 +43,7 @@ Fractio is a platform that uses blockchain technology to tokenize real-world ass
 - Documentation of core components, protocols, architecture, etc. to be deployed:
 - Integration of jurisdictional laws in smart contracts (via polymesh capital platform)
 - Fractionalized property ownership models: revenue-sharing and equity-sharing
-- PoC/MVP or other relevant prior work or research on the topic: https://fractio.live/
+- PoC/MVP or other relevant prior work or research on the topic: https://fractio.live/, https://github.com/blockchainscorpion/Silver1.git, https://www.linkedin.com/posts/activity-7237731304924999680-dcNa?utm_source=share&utm_medium=member_desktop
 - What your project is **_not_** or will **_not_** provide or implement
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious.
   - Fractio will NOT initially have or launch a token. Our tokens will be issued per property, or property / asset collection. We are not a meme coin, nor will we attempt to position ourselves as such.
