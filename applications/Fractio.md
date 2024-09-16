@@ -32,8 +32,8 @@ We expect the teams to already have a solid idea about your project's expected f
 
 Fractio is a platform that uses blockchain technology to tokenize real-world assets, specifically real estate, providing opportunities for fractional ownership. By offering these assets to retail investors, Fractio lowers the barrier to entry in property investments.
 
-- Mockups/designs of any UI components: https://fractio.live/
-- Data models / API specifications of the core functionality: https://fractioapi.netlify.app/
+- Mockups/designs of any UI components: #
+- Data models / API specifications of the core functionality: #
 - An overview of the technology stack to be used
 -  Blockchain: ERC1400-compliant tokens
 - Smart Contracts: Built for fractional ownership, ensuring real-time regulatory compliance
@@ -43,7 +43,7 @@ Fractio is a platform that uses blockchain technology to tokenize real-world ass
 - Documentation of core components, protocols, architecture, etc. to be deployed:
 - Integration of jurisdictional laws in smart contracts (via polymesh capital platform)
 - Fractionalized property ownership models: revenue-sharing and equity-sharing
-- PoC/MVP or other relevant prior work or research on the topic: https://fractio.live/, https://github.com/blockchainscorpion/Silver1.git, https://www.linkedin.com/posts/activity-7237731304924999680-dcNa?utm_source=share&utm_medium=member_desktop
+- PoC/MVP or other relevant prior work or research on the topic: #, https://github.com/blockchainscorpion/Silver1.git, https://www.linkedin.com/posts/activity-7237731304924999680-dcNa?utm_source=share&utm_medium=member_desktop
 - What your project is **_not_** or will **_not_** provide or implement
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious.
   - Fractio **IS NOT** a meme coin. Fractio **WILL NOT** initially have or launch a token. **Our tokens will be issued per property, or property / asset collection.**
@@ -69,7 +69,7 @@ Help us locate your project in the Polymesh ecosystem / landscape and what probl
 
 - **Contact Name:** Rich-Allee A John
 - **Contact Email:** fractio.team@gmail.com
-- **Website:** https://fractio.live/
+- **Website:** #
 
 ### Legal Structure
 
@@ -102,7 +102,7 @@ The main service will focus on tokenizing real estate assets and facilitating a 
 
 While Fractio has not yet tokenized real estate assets, our founder has experience in tokenizing personal assets. And has been bootsrtapping a Proof of concept platform for the past 9 months.
 
-The most recent update can be seet here: https://fractio.live/
+The most recent update can be seet here: #
 
 The next steps include launching the MVP using the Polymesh platform, followed by the development of features to enhance investor experience, such as real-time property valuation and dynamic receipt Dnft's.
 
