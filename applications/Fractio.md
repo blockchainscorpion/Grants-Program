@@ -170,4 +170,4 @@ Please include here
 Here you can also add any additional information that you think is relevant to this application but isn't part of it already, such as:
 
 - As the founder, I have already experimented with tokenizing real world assets, utilizing the concept to tokenize my own personal assets to garner greater clarity around the requirements for the process.
-- Founder: I have also continued to improve my knowledge and experience in the blockchain space by primarily focusing on blockchain development, while establishing partnerships with relevant and key individuals in both the real-estate and blockchain space. This is an ongoing effort.
+- Founder: I have also continued to improve my knowledge and experience in the blockchain space by primarily focusing on blockchain development, while establishing partnerships with relevant and key partners in both the real-estate and blockchain space. This is an ongoing initiative.
