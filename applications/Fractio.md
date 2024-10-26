@@ -108,55 +108,50 @@ The next steps include launching the MVP using the Polymesh platform, followed b
 
 ## Development Roadmap :nut_and_bolt:
 
-This section should break the development roadmap down into milestones and deliverables. To assist you in defining it, we have created a document with examples for some grant categories [here](../docs/grant_guidelines_per_category.md). Since these will be part of the agreement, it helps to describe _the functionality we should expect in as much detail as possible_, plus how we can verify and test that functionality. Whenever milestones are delivered, we refer to this document to ensure that everything has been delivered as expected.
-
-Below we provide an **example roadmap**. In the descriptions, it should be clear how your project is related to Polymesh. We _recommend_ that teams structure their roadmap as 1 milestone ≈ 1 month. We also _recommend_ that you build up the scope of the project in a way that it can be completed in max 3 months. If the entirety of your project is going to take more than 3 months, please submit it's parts that can be completed in 3 months as one grant project. This helps us move forward quickly and deliver features quickly.
-
-For each milestone,
-
-- make sure to include a specification of your software. _Treat it as a contract_; the level of detail must be enough to later verify that the software meets the specification.
-- include the amount of funding requested _per milestone_.
-- include documentation (tutorials, API specifications, architecture diagrams, whatever is appropriate) in each milestone. This ensures that the code can be widely used by the community.
-- provide a test suite, comprising unit and integration tests, along with a guide on how to set up and run them.
-- commit to providing Dockerfiles for the delivery of your project.
-- indicate milestone duration as well as number of full-time employees working on each milestone.
-- **Deliverables 0a-0d are mandatory for all milestones**, and deliverable 0e at least for the last one. If you do not intend to deliver one of these, please state a reason in its specification (e.g. Milestone X is research oriented and as such there is no code to test).
-
-> :zap: If any of your deliverables is based on somebody else's work, make sure you work and publish _under the terms of the license_ of the respective project and that you **highlight this fact in your milestone documentation** and in the source code if applicable! **Teams that submit others' work without attributing it will be immediately terminated.**
-
-### Milestone 1 - Legal & Regulatory Compliance
-### | Aspect | Details |
-|--------|---------|
-| **Estimated Duration** | 6 months |
-| **FTE** | 1 |
-| **Costs** | $45000 |
-
-| Number | Deliverable | Specification |
-|--------|-------------|----------------|
-| 0a. | License | Unlicenced / FCA |
-| 0b. | Documentation | Complete legal framework documentation and compliance reports |
-| 0c. | Testing Guide | Provide regulatory testing guide to ensure FCA compliance and alignment with global regulations |
-| 1. | Legal Framework | Secure the necessary legal and regulatory compliance, ensuring adherence to FCA regulations for tokenized real estate assets in the UK |
-| 2. | Platform Compliance | Establish the platform's legal structure to operate as a compliant real estate tokenization service in the UK and Europe |
-
-
-### ## Milestone 2 — Platform Setup and Integration with Polymesh Capital
-
-| Item | Details |
-|------|---------|
-| **Estimated Duration:** | 6 months |
-| **FTE:** | 4 |
-| **Costs:** | $555,000 USD (funded by Pree-seed round) |
+### Milestone 1 — Legal Framework & Regulatory Compliance Setup
+* **Estimated Duration:** 3 months
+* **FTE:** 2
+* **Costs:** 10,000 USD
 
 | Number | Deliverable | Specification |
 |--------|-------------|---------------|
-| 0a. | License | Polymath Capital |
-| 0b. | Documentation | Publish API integration documentation with Polymesh Capital |
-| 0c. | Testing Guide | Provide unit and integration testing documentation for platform setup |
-| 0d. | Docker | Dockerfiles for Polymesh integration and initial property tokenization testing |
-| 1. | Platform Setup | Configure the white-label Polymesh Capital platform for Fractio's tokenization services, including wallet and smart contract execution integration |
-| 2. | Initial Property Listings | Tokenize and list the first five properties on the platform to kickstart fractional investment offerings
+| 0a. | License | Apache 2.0 |
+| 0b. | Documentation | We will provide comprehensive documentation covering: <br/>- Regulatory compliance framework<br/>- KYC/AML procedures<br/>- Legal structure for the DAO<br/>- Compliance reporting templates |
+| 0c. | Testing Guide | We will provide detailed testing documentation for: <br/>- KYC/AML integration testing<br/>- Compliance verification procedures<br/>- Regulatory reporting systems |
+| 0d. | Docker | We will provide a Dockerfile that will set up the testing environment |
+| 1. | Regulatory Framework | Develop and implement: <br/>- KYC/AML integration using Polymesh's compliance framework<br/>- Automated compliance checking systems<br/>- Regulatory reporting mechanisms |
+| 2. | Legal Documentation | Create:<br/>- Token holder agreements<br/>- Property investment contracts<br/>- DAO governance documentation<br/>- Compliance manuals |
+| 3. | Compliance Dashboard | Build a compliance monitoring system that includes:<br/>- Real-time compliance status tracking<br/>- Automated regulatory reporting<br/>- KYC/AML verification interface |
 
+### Milestone 2 — Core Platform Development
+* **Estimated Duration:** 3 months
+* **FTE:** 3
+* **Costs:** 10,000 USD
+
+| Number | Deliverable | Specification |
+|--------|-------------|---------------|
+| 0a. | License | Apache 2.0 |
+| 0b. | Documentation | We will provide comprehensive technical documentation covering: <br/>- Platform architecture<br/>- API specifications<br/>- Smart contract documentation<br/>- Integration guides |
+| 0c. | Testing Guide | Complete test suite for: <br/>- Smart contracts<br/>- Platform functionality<br/>- Integration tests |
+| 0d. | Docker | We will provide Dockerfiles for the complete platform setup |
+| 1. | Smart Contracts | Develop:<br/>- ERC1400-compliant token contracts<br/>- Revenue distribution systems<br/>- Governance mechanisms |
+| 2. | Platform Integration | Build:<br/>- Integration with Polymesh infrastructure<br/>- Property tokenization system<br/>- Investment management interface |
+| 3. | User Interface | Create:<br/>- Investment dashboard<br/>- Property listing interface<br/>- Portfolio management tools |
+
+### Milestone 3 — Enhanced Features & Security Implementation
+* **Estimated Duration:** 3 months
+* **FTE:** 3
+* **Costs:** 10,000 USD
+
+| Number | Deliverable | Specification |
+|--------|-------------|---------------|
+| 0a. | License | Apache 2.0 |
+| 0b. | Documentation | Technical documentation for:<br/>- Security features<br/>- Advanced platform functionalities<br/>- Maintenance procedures |
+| 0c. | Testing Guide | Comprehensive testing documentation for:<br/>- Security features<br/>- Advanced functionalities<br/>- Performance testing |
+| 0d. | Docker | Updated Dockerfiles including all enhanced features |
+| 1. | Security Features | Implement:<br/>- Multi-signature wallets<br/>- Advanced encryption<br/>- Secure key management |
+| 2. | Analytics System | Develop:<br/>- Property performance metrics<br/>- Investment analytics<br/>- Market analysis tools |
+| 3. | DAO Governance | Create:<br/>- Voting mechanisms<br/>- Proposal systems<br/>- Treasury management |
 
 ## Future Plans
 
