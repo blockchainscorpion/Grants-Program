@@ -32,17 +32,101 @@ We expect the teams to already have a solid idea about your project's expected f
 
 Fractio is a platform that uses blockchain technology to tokenize real-world assets, specifically real estate, providing opportunities for fractional ownership. By offering these assets to retail investors, Fractio lowers the barrier to entry in property investments.
 
-- Mockups/designs of any UI components: #
+- Mockups/designs of any UI components: https://fractiodao.netlify.app/
 - Data models / API specifications of the core functionality: #
 - An overview of the technology stack to be used
--  Blockchain: ERC1400-compliant tokens
+- Blockchain: ERC1400-compliant tokens
 - Smart Contracts: Built for fractional ownership, ensuring real-time regulatory compliance
-- Frontend: Web3 integrated interface for retail and institutional investors
-- Backend: Blockchain-based real estate tokenization and management
+- Frontend: React.js with Web3 integration
+- Backend: Node.js/Express.js
+- Blockchain: Polymesh infrastructure with ERC1400 implementation
+- Database: PostgreSQL for off-chain data
+- Caching: Redis for performance optimization
 - Security: KYC/AML compliance mechanisms
 - Documentation of core components, protocols, architecture, etc. to be deployed:
-- Integration of jurisdictional laws in smart contracts (via polymesh capital platform)
+
+- Whitepaper: https://docs.google.com/document/d/1dG5WAeeRjb3BhUbmJShArP4_HsigFIxEluEISZItr3U/edit?usp=drive_link
+- API Architecture: https://claude.site/artifacts/44f1189a-f34a-44e6-b90d-4df6f70de425
+
+- Integration of jurisdictional laws in smart contracts.
 - Fractionalized property ownership models: revenue-sharing and equity-sharing
+
+- Core APIs:
+- Property Management API
+  - Property listing and management
+  - Documentation and verification
+  - Valuation updates
+- Investment API
+  - Token creation and management
+  - Transaction processing
+  - Portfolio management
+- Analytics API
+  - Market data analysis
+  - Performance metrics
+  - Custom reporting
+- Compliance API
+  - KYC/AML verification
+  - Regulatory reporting
+  - Compliance monitoring
+
+ Data Models (example):
+
+Property Asset:
+```json
+{
+  "propertyId": "string",
+  "title": "string",
+  "location": {
+    "address": "string",
+    "coordinates": {
+      "latitude": "number",
+      "longitude": "number"
+    }
+  },
+  "valuation": {
+    "currentValue": "number",
+    "lastUpdated": "timestamp",
+    "historicalValues": ["array"]
+  },
+  "tokenization": {
+    "totalTokens": "number",
+    "tokenPrice": "number",
+    "remainingTokens": "number"
+  },
+  "compliance": {
+    "regulatoryStatus": "string",
+    "requiredDocuments": ["array"],
+    "lastAuditDate": "timestamp"
+  }
+}
+```
+
+Token Structure (V1 example):
+{
+  "tokenId": "string",
+  "propertyId": "string",
+  "tokenType": "enum(EQUITY, REVENUE_SHARE)",
+  "ownershipDetails": {
+    "percentageOwned": "number",
+    "acquisitionDate": "timestamp",
+    "acquisitionPrice": "number"
+  },
+  "restrictions": {
+    "lockupPeriod": "number",
+    "transferRestrictions": ["array"]
+  }
+}
+
+Security Implementation:
+
+
+Multi-factor authentication
+Role-based access control
+Real-time transaction monitoring
+Automated compliance checks
+Secure key management
+Regular security audits
+
 - PoC/MVP or other relevant prior work or research on the topic:
 - DAO - https://fractiodao.netlify.app/, 
 - General Demo - https://fractio.live/, 
