@@ -33,24 +33,9 @@ We expect the teams to already have a solid idea about your project's expected f
 Fractio is a platform that uses blockchain technology to tokenize real-world assets, specifically real estate, providing opportunities for fractional ownership. By offering these assets to retail investors, Fractio lowers the barrier to entry in property investments.
 
 - Mockups/designs of any UI components: https://fractiodao.netlify.app/
-- Data models / API specifications of the core functionality: #
-- An overview of the technology stack to be used
-- Blockchain: ERC1400-compliant tokens
-- Smart Contracts: Built for fractional ownership, ensuring real-time regulatory compliance
-- Frontend: React.js with Web3 integration
-- Backend: Node.js/Express.js
-- Blockchain: Polymesh infrastructure with ERC1400 implementation
-- Database: PostgreSQL for off-chain data
-- Caching: Redis for performance optimization
-- Security: KYC/AML compliance mechanisms
-- Documentation of core components, protocols, architecture, etc. to be deployed:
 
-- Whitepaper: https://docs.google.com/document/d/1dG5WAeeRjb3BhUbmJShArP4_HsigFIxEluEISZItr3U/edit?usp=drive_link
+- Data models / API specifications of the core functionality:
 - API Architecture: https://claude.site/artifacts/44f1189a-f34a-44e6-b90d-4df6f70de425
-
-- Integration of jurisdictional laws in smart contracts.
-- Fractionalized property ownership models: revenue-sharing and equity-sharing
-
 - Core APIs:
 - Property Management API
   - Property listing and management
@@ -117,15 +102,32 @@ Token Structure (V1 example):
   }
 }
 
+ An overview of the technology stack to be used:
+
+- Blockchain: ERC1400-compliant tokens
+- Smart Contracts: Built for fractional ownership, ensuring real-time regulatory compliance
+- Frontend: React.js with Web3 integration
+- Backend: Node.js/Express.js
+- Blockchain: Polymesh infrastructure with ERC1400 implementation
+- Database: PostgreSQL for off-chain data
+- Caching: Redis for performance optimization
+- Security: KYC/AML compliance mechanisms
+- Documentation of core components, protocols, architecture, etc. to be deployed:
+
+- Whitepaper: https://docs.google.com/document/d/1dG5WAeeRjb3BhUbmJShArP4_HsigFIxEluEISZItr3U/edit?usp=drive_link
+
+- Integration of jurisdictional laws in smart contracts (where possible).
+- Fractionalized property ownership models: revenue-sharing and equity-sharing
+
+
 Security Implementation:
 
-
-Multi-factor authentication
-Role-based access control
-Real-time transaction monitoring
-Automated compliance checks
-Secure key management
-Regular security audits
+- Multi-factor authentication
+- Role-based access control
+- Real-time transaction monitoring
+- Automated compliance checks
+- Secure key management
+- Regular security audits
 
 - PoC/MVP or other relevant prior work or research on the topic:
 - DAO - https://fractiodao.netlify.app/, 
@@ -136,7 +138,7 @@ Regular security audits
 - What your project is **_not_** or will **_not_** provide or implement
   
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious.
-  - Fractio **IS NOT** a meme coin. Fractio **WILL NOT** initially have or launch a token. **Our tokens will be issued per property, or property / asset collection.**
+  - Fractio **IS NOT** a meme coin.
 
 ### Ecosystem Fit
 
