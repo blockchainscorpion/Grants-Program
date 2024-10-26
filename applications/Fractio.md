@@ -1,14 +1,9 @@
 # Polymesh Association Grant Proposal
 
-> This document will be part of the terms and conditions of your agreement and therefore needs to contain all the required information about the project. Don't remove any of the mandatory parts presented in bold letters or as headlines! Lines starting with a `>` (such as this one) can be removed.
->
-
 - **Project Name:** Fractio
 - **Team Name:** Fractio
 - **Payment Address:** Polymesh (POLYX) payment address. Please also specify the currency.  
 - **Level:** 1
-
-> ⚠️ *The combination of your GitHub account submitting the application and the payment address above will be your unique identifier during the program. Please keep them safe.*
 
 ## Project Overview :page_facing_up:
 
@@ -208,7 +203,55 @@ PoC/MVP or other relevant prior work or research on the topic:
 - What your project is **_not_** or will **_not_** provide or implement
   
   This is a place for you to manage expectations and to clarify any limitations that might not be obvious.
-  - Fractio **IS NOT** a meme coin.
+  - Fractio **IS NOT** 
+  1. Financial Structure:
+- NOT a meme coin or speculative token project
+- NOT a yield farming or liquidity mining platform
+- NOT a traditional REIT or real estate investment trust
+- NOT a direct lending platform or mortgage provider
+- NOT a cryptocurrency exchange or trading platform
+
+2. Property Management:
+- NOT a property management company
+- NOT a real estate agency or brokerage
+- NOT a construction or development company
+- NOT a facilities management service
+- NOT a rental marketplace or short-term rental platform
+
+3. Investment Model:
+- NOT an unregulated investment scheme
+- NOT a high-yield investment program (HYIP)
+- NOT a peer-to-peer lending platform
+- NOT a crowdfunding platform without regulatory oversight
+- NOT a get-rich-quick investment scheme
+
+4. Technology:
+- NOT a blockchain protocol or new blockchain network
+- NOT a cryptocurrency wallet or custody solution
+- NOT a general-purpose smart contract platform
+- NOT a DeFi protocol for general trading
+- NOT a metaverse or virtual real estate platform
+
+5. Regulatory & Compliance:
+- NOT an unregulated financial service
+- NOT a way to bypass KYC/AML requirements
+- NOT a tax avoidance scheme
+- NOT a means to circumvent securities regulations
+- NOT available to non-verified investors
+
+6. Services:
+- NOT a financial advisory service
+- NOT a tax consultation service
+- NOT a legal services provider
+- NOT a property valuation service
+- NOT an insurance provider
+
+7. Market Position:
+- NOT competing with traditional real estate agents
+- NOT replacing traditional property ownership models
+- NOT eliminating the need for professional property management
+- NOT a substitute for proper due diligence
+- NOT a guaranteed investment return platform
 
 ### Ecosystem Fit
 
