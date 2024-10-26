@@ -244,52 +244,49 @@ The most recent update can be seet here: # https://fractiodao.netlify.app/
 
 The next steps include launching the MVP using the Polymesh platform, followed by the development of features to enhance investor experience, such as real-time property valuation and dynamic receipt Dnft's.
 
-## Development Roadmap :nut_and_bolt:
+ ASA token representation
+- High-performance trading
+- Lower transaction costs
+- Smart contract execution
 
-### Milestone 1 — Legal Framework & Regulatory Compliance Setup
-* **Estimated Duration:** 3 months
-* **FTE:** 2
-* **Costs:** 10,000 USD
+Polygon:
+- ERC token representation
+- DeFi integration capabilities
+- Secondary market trading
+- Smart contract functionality
 
-| Number | Deliverable | Specification |
-|--------|-------------|---------------|
-| 0a. | License | Apache 2.0 |
-| 0b. | Documentation | We will provide comprehensive documentation covering: <br/>- Regulatory compliance framework<br/>- KYC/AML procedures<br/>- Legal structure for the DAO<br/>- Compliance reporting templates |
-| 0c. | Testing Guide | We will provide detailed testing documentation for: <br/>- KYC/AML integration testing<br/>- Compliance verification procedures<br/>- Regulatory reporting systems |
-| 0d. | Docker | We will provide a Dockerfile that will set up the testing environment |
-| 1. | Regulatory Framework | Develop and implement: <br/>- KYC/AML integration using Polymesh's compliance framework<br/>- Automated compliance checking systems<br/>- Regulatory reporting mechanisms |
-| 2. | Legal Documentation | Create:<br/>- Token holder agreements<br/>- Property investment contracts<br/>- DAO governance documentation<br/>- Compliance manuals |
-| 3. | Compliance Dashboard | Build a compliance monitoring system that includes:<br/>- Real-time compliance status tracking<br/>- Automated regulatory reporting<br/>- KYC/AML verification interface |
+4. Updated Development Roadmap with Technical Deliverables:
 
-### Milestone 2 — Core Platform Development
-* **Estimated Duration:** 3 months
+### Milestone 1 — Core Infrastructure & Compliance (3 months)
 * **FTE:** 3
 * **Costs:** 10,000 USD
 
-| Number | Deliverable | Specification |
-|--------|-------------|---------------|
-| 0a. | License | Apache 2.0 |
-| 0b. | Documentation | We will provide comprehensive technical documentation covering: <br/>- Platform architecture<br/>- API specifications<br/>- Smart contract documentation<br/>- Integration guides |
-| 0c. | Testing Guide | Complete test suite for: <br/>- Smart contracts<br/>- Platform functionality<br/>- Integration tests |
-| 0d. | Docker | We will provide Dockerfiles for the complete platform setup |
-| 1. | Smart Contracts | Develop:<br/>- ERC1400-compliant token contracts<br/>- Revenue distribution systems<br/>- Governance mechanisms |
-| 2. | Platform Integration | Build:<br/>- Integration with Polymesh infrastructure<br/>- Property tokenization system<br/>- Investment management interface |
-| 3. | User Interface | Create:<br/>- Investment dashboard<br/>- Property listing interface<br/>- Portfolio management tools |
+| Number | Deliverable | Technical Specification |
+|--------|-------------|------------------------|
+| 1a. | Polymesh Integration | - Setup Polymesh node integration<br/>- Implement ERC1400 token standard<br/>- Deploy compliance smart contracts<br/>- Integrate KYC/AML verification |
+| 1b. | CCIP Configuration | - Configure Chainlink CCIP routers<br/>- Set up cross-chain messaging<br/>- Implement token bridge contracts<br/>- Deploy security monitoring |
+| 1c. | Network Setup | - Deploy Algorand ASA contracts<br/>- Deploy Polygon ERC contracts<br/>- Implement state synchronization<br/>- Setup monitoring systems |
 
-### Milestone 3 — Enhanced Features & Security Implementation
-* **Estimated Duration:** 3 months
+### Milestone 2 — Token Management & Trading (3 months)
 * **FTE:** 3
 * **Costs:** 10,000 USD
 
-| Number | Deliverable | Specification |
-|--------|-------------|---------------|
-| 0a. | License | Apache 2.0 |
-| 0b. | Documentation | Technical documentation for:<br/>- Security features<br/>- Advanced platform functionalities<br/>- Maintenance procedures |
-| 0c. | Testing Guide | Comprehensive testing documentation for:<br/>- Security features<br/>- Advanced functionalities<br/>- Performance testing |
-| 0d. | Docker | Updated Dockerfiles including all enhanced features |
-| 1. | Security Features | Implement:<br/>- Multi-signature wallets<br/>- Advanced encryption<br/>- Secure key management |
-| 2. | Analytics System | Develop:<br/>- Property performance metrics<br/>- Investment analytics<br/>- Market analysis tools |
-| 3. | DAO Governance | Create:<br/>- Voting mechanisms<br/>- Proposal systems<br/>- Treasury management |
+| Number | Deliverable | Technical Specification |
+|--------|-------------|------------------------|
+| 2a. | Token Lifecycle | - Implement token minting/burning<br/>- Deploy transfer restrictions<br/>- Setup corporate actions<br/>- Configure distribution rules |
+| 2b. | Trading Engine | - Build order matching engine<br/>- Implement price discovery<br/>- Setup liquidity pools<br/>- Deploy trading controls |
+| 2c. | Portfolio Management | - Create portfolio tracking<br/>- Implement performance analytics<br/>- Setup reporting engine<br/>- Deploy tax reporting tools |
+
+### Milestone 3 — Advanced Features & Platform Launch (3 months)
+* **FTE:** 4
+* **Costs:** 10,000 USD
+
+| Number | Deliverable | Technical Specification |
+|--------|-------------|------------------------|
+| 3a. | Analytics Engine | - Deploy real-time analytics<br/>- Implement ML price prediction<br/>- Setup market analysis tools<br/>- Create custom reports |
+| 3b. | DAO Governance | - Deploy voting contracts<br/>- Implement proposal system<br/>- Setup treasury management<br/>- Create governance dashboard |
+| 3c. | Platform Launch | - Security audit completion<br/>- Performance optimization<br/>- User acceptance testing<br/>- Production deployment |
+
 
 ## Future Plans
 
