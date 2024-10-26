@@ -103,6 +103,74 @@ Token Structure (V1 example):
   }
 }
 ```
+
+Core Endpoints:
+
+Property Management API:
+```
+// Create Property Listing
+POST /api/v1/properties
+{
+  title: string,
+  location: Location,
+  valuation: Valuation,
+  documents: Document[]
+}
+
+// Get Property Details
+GET /api/v1/properties/{propertyId}
+
+// Update Property Valuation
+PUT /api/v1/properties/{propertyId}/valuation
+{
+  currentValue: number,
+  valuationDate: timestamp,
+  valuationMethod: string
+}
+
+```
+
+Investment API:
+```
+// Create Token Offering
+POST /api/v1/tokens
+{
+  propertyId: string,
+  totalSupply: number,
+  tokenPrice: number,
+  offeringTerms: OfferingTerms
+}
+
+// Purchase Tokens
+POST /api/v1/tokens/purchase
+{
+  tokenId: string,
+  quantity: number,
+  paymentMethod: PaymentMethod
+}
+
+// Get Investment Portfolio
+GET /api/v1/portfolio/{userId}
+```
+Analytics API (Work in progress):
+```
+// Get Market Analytics
+GET /api/v1/analytics/market
+{
+  timeframe: string,
+  metrics: string[],
+  filters: Filter[]
+}
+
+// Get Property Performance
+GET /api/v1/analytics/property/{propertyId}
+{
+  metrics: string[],
+  timeframe: string
+}
+
+```
+
  An overview of the technology stack to be used:
 
 - Blockchain: ERC1400-compliant tokens
