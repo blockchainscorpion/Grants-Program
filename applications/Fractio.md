@@ -130,7 +130,8 @@ Security Implementation:
 - Secure key management
 - Regular security audits
 
-- PoC/MVP or other relevant prior work or research on the topic:
+PoC/MVP or other relevant prior work or research on the topic:
+
 - DAO - https://fractiodao.netlify.app/, 
 - General Demo - https://fractio.live/, 
 - CRM Demo - https://fractiocrm.netlify.app/tokenization (you can test it out with a mock property),
@@ -138,7 +139,7 @@ Security Implementation:
 - https://www.linkedin.com/posts/activity-7237731304924999680-dcNa?utm_source=share&utm_medium=member_desktop
 - What your project is **_not_** or will **_not_** provide or implement
   
-  - This is a place for you to manage expectations and to clarify any limitations that might not be obvious.
+  This is a place for you to manage expectations and to clarify any limitations that might not be obvious.
   - Fractio **IS NOT** a meme coin.
 
 ### Ecosystem Fit
