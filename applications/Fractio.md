@@ -87,6 +87,7 @@ Property Asset:
 ```
 
 Token Structure (V1 example):
+```
 {
   "tokenId": "string",
   "propertyId": "string",
@@ -101,7 +102,7 @@ Token Structure (V1 example):
     "transferRestrictions": ["array"]
   }
 }
-
+```
  An overview of the technology stack to be used:
 
 - Blockchain: ERC1400-compliant tokens
