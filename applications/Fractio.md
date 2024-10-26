@@ -255,7 +255,7 @@ Polygon:
 - Secondary market trading
 - Smart contract functionality
 
-4. Updated Development Roadmap with Technical Deliverables:
+  # Project Milestones
 
 ### Milestone 1 — Core Infrastructure & Compliance (3 months)
 * **FTE:** 3
