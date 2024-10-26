@@ -43,8 +43,14 @@ Fractio is a platform that uses blockchain technology to tokenize real-world ass
 - Documentation of core components, protocols, architecture, etc. to be deployed:
 - Integration of jurisdictional laws in smart contracts (via polymesh capital platform)
 - Fractionalized property ownership models: revenue-sharing and equity-sharing
-- PoC/MVP or other relevant prior work or research on the topic: #, https://github.com/blockchainscorpion/Silver1.git, https://www.linkedin.com/posts/activity-7237731304924999680-dcNa?utm_source=share&utm_medium=member_desktop
+- PoC/MVP or other relevant prior work or research on the topic:
+- DAO - https://fractiodao.netlify.app/, 
+- General Demo - https://fractio.live/, 
+- CRM Demo - https://fractiocrm.netlify.app/tokenization (you can test it out with a mock property),
+- https://github.com/blockchainscorpion/Silver1.git,
+- https://www.linkedin.com/posts/activity-7237731304924999680-dcNa?utm_source=share&utm_medium=member_desktop
 - What your project is **_not_** or will **_not_** provide or implement
+  
   - This is a place for you to manage expectations and to clarify any limitations that might not be obvious.
   - Fractio **IS NOT** a meme coin. Fractio **WILL NOT** initially have or launch a token. **Our tokens will be issued per property, or property / asset collection.**
 
@@ -56,7 +62,7 @@ Help us locate your project in the Polymesh ecosystem / landscape and what probl
 - Target audiences include real estate agents and developers, family offices, institutional investors, retail investors.
 - There are similar projects in the blockchain real estate space, such as:
 - RealT, HoneyBricks, RedSwan CRE, and a few other noteable players.
-- Fractio differentiates itself by offering both fractionalized revenue-sharing and equity models, while also providing financial education for retail investors, via a learn-to-earn mechanism.
+- Fractio differentiates itself by offering both fractionalized revenue-sharing and equity models, while also providing financial education for retail investors, via a learn-to-earn mechanism. And, with a focus on regulatory compliance. 
 
 ## Team :busts_in_silhouette:
 
@@ -69,7 +75,7 @@ Help us locate your project in the Polymesh ecosystem / landscape and what probl
 
 - **Contact Name:** Rich-Allee A John
 - **Contact Email:** fractio.team@gmail.com
-- **Website:** #
+- **Website:** https://fractio.info/
 
 ### Legal Structure
 
@@ -102,7 +108,7 @@ The main service will focus on tokenizing real estate assets and facilitating a 
 
 While Fractio has not yet tokenized real estate assets, our founder has experience in tokenizing personal assets. And has been bootsrtapping a Proof of concept platform for the past 9 months.
 
-The most recent update can be seet here: #
+The most recent update can be seet here: # https://fractiodao.netlify.app/
 
 The next steps include launching the MVP using the Polymesh platform, followed by the development of features to enhance investor experience, such as real-time property valuation and dynamic receipt Dnft's.
 
