@@ -2,7 +2,7 @@
 
 - **Project Name:** Fractio
 - **Team Name:** Fractio
-- **Payment Address:** Polymesh (POLYX) payment address. Please also specify the currency.  
+- **Payment Address:** 2FoA2bNnLkWVieYpbtQdWKQm294CYcqyEZCXXZdtuAYGegQ2 Please also specify the currency.  
 - **Level:** 1
 
 ## Project Overview :page_facing_up:
